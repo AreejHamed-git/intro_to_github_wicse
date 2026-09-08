@@ -79,8 +79,7 @@ participants/ashly.md
 
 Add the following information:
 ```bash
-# Your Name
-
+- Name:
 - Major:
 - School:
 - Year:
